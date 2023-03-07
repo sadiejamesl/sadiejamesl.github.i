@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.pet-image {
+       width: 400px;
+       float: left;
+       margin-left:100px ;
+       margin-top: 20px;
+}
+
+.arrow-image {
+    width: 50px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.star {
+    width: 30px;
+    position: absolute;
+    top: 30.6%;
+    right: 26.5%;
+}
+
+
+.star2 {
+    width: 30px;
+    position: absolute;
+    bottom: 7%;
+    right: 26.5%;
+}
+
+h1, h2, p {
+    color: white;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+h1{
+    font-size: 23pt;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 12pt;
+    font-style: italic;
+    float: left;
+    margin-top: -12px;
+    margin-left:100px ;
+    font-weight: lighter;
+}
+
+h3 {
+    font-size: 12pt;
+    color: black;
+    font-style: italic;
+    float: left;
+    margin-top: -12px;
+    margin-left:100px ;
+    font-weight: lighter;
+}
+
+a {
+    font-size: 11pt;
+    color: white;
+    text-decoration: none;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: italic;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 12pt;
+    width: 500px;
+    text-align: center;
+    float: right;
+    margin-right: 100px;
+    line-height: 25px;
+    margin-top: 160px;
+}

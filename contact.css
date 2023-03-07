@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 5px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-weight: lighter;
+    margin-top: 40px;
+}
+
+.star {
+    width: 30px;
+    position: absolute;
+    left: 49%;
+    top: 33%
+}
+
+.mailme {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14pt;
+    margin-top: 140px;
+    font-weight: bold;
+}
+
+.mailme:hover {
+    background-image: url(images/hover-logo-ball.png);
+    background-size: 25px;
+    background-position: 370px;
+    background-repeat: no-repeat;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+h3 {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: white;
+    font-size: 10pt;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.arrow-image{
+    width: 50px;
+    margin-left: 100px;
+    margin-top: 38.3px;
+}
+
+.return{
+    font-size: 10pt;
+    font-style: italic;
+    text-decoration: none;
+    position: absolute;
+    left: 14.2%;
+    top: 7.2%;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+
+}
+

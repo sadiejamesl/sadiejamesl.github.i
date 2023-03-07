@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 5px;
+}
+
+.star {
+    width: 30px;
+    position: absolute;
+    left: 49%;
+    top: 33%
+}
+
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+.sources-sites {
+    font-size: 12pt;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    text-align: center;
+    margin-top: 130px;
+    line-height: 50px;
+}
+
+.humane-society:hover {
+    background-image: url(images/hover-logo.png);
+    background-size: 120px;
+    background-position: 570px;
+    background-repeat: no-repeat;
+}
+
+.vca-can:hover {
+    background-image: url(images/hover-logo.png);
+    background-size: 120px;
+    background-position: 570px;
+    background-repeat: no-repeat;
+}
+
+.cmha:hover {
+    background-image: url(images/hover-logo.png);
+    background-size: 120px;
+    background-position: 570px;
+    background-repeat: no-repeat;
+}
+
+.toronto-humane:hover {
+    background-image: url(images/hover-logo.png);
+    background-size: 120px;
+    background-position: 570px;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: white;
+    font-size: 10pt;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 70pt;
+    text-align: center;
+}
+
+.arrow-image{
+    width: 50px;
+    margin-left: 100px;
+    margin-top: 38.3px;
+}
+
+.return{
+    font-size: 10pt;
+    font-style: italic;
+    text-decoration: none;
+    position: absolute;
+    left: 14.2%;
+    top: 7.2%;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+
+}
+
